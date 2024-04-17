@@ -1,0 +1,12 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Webcrawler boot.dev project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 2",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
